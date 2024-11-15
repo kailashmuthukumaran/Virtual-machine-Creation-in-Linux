@@ -20,9 +20,11 @@ Step 6: Click Start to boot up the newly created virtual machine. During install
 Switch to User:
 
 su username
+
 View IP Address:
 
 ip a
+
 Create a Directory:
 
 mkdir <directory_name>
